@@ -1,0 +1,5 @@
+Number of circles that were used in this game: 4
+Number of arrows that were used in this game: 8
+Number of checks on all circles: 6
+Average number of checks in a circle marked in this game: 1
+Maximum number of checks in a circle marked in this game: 3
